@@ -1,0 +1,8 @@
+**/target/
+**/.idea/
+**/.vscode/*.log
+
+# Local database credentials
+.env
+.env.*
+!.env.example
